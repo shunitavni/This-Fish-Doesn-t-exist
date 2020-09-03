@@ -1,2 +1,2 @@
 # Gan - This Fish Doesnt exist.
-Generative adversarial network (GAN) that aims to create new data instances, which in my project it was a fish image that resembles as much as possible to the training data. 
+Generative adversarial network (GAN) that aims to create new data instances non-real fish images through a GAN atchitecture, that resembles as much as possible to the training data. 
